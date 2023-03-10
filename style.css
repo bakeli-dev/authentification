@@ -1,0 +1,31 @@
+body{
+    margin: 7% 30% 0% 30%;
+}
+.backg1{
+    background: #2D9CDB;
+    color:white;
+}
+
+.bac1{
+    /* background-color: #35e40a; */
+    background-image: url(./img/prairie-g934f10734_1920.jpg);
+    background-size: cover;
+}
+
+.toucho:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 15px #b4cacd;
+    color: #0000ff;
+}
+
+.bac2{
+    /* background-color: #d7e60d; */
+    background-image: url(./img/forest-g5225478a0_1920.jpg);
+    background-size: cover;
+}
+
+.bac3{
+    /* background-color: #d10b0b; */
+    background-image: url(./img/painting-ge28407bee_1920.jpg);
+    background-size: cover;
+}
